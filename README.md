@@ -17,7 +17,7 @@ philip.white@colorado.edu
 
 [Read about WokSearch Operations & search parameters](http://ipscience-help.thomsonreuters.com/wosWebServicesExpanded/WebServiceOperationsGroup/WSPremiumOperations.html)
 
-[WOS Field Tags for a User Query]9http://ipscience-help.thomsonreuters.com/wosWebServicesExpanded/WebServiceOperationsGroup/WSPremiumOperations/wokSearchGroup/search/user_query/fieldTagsGroup/WOSfieldTags.html)
+[WOS Field Tags for a User Query](http://ipscience-help.thomsonreuters.com/wosWebServicesExpanded/WebServiceOperationsGroup/WSPremiumOperations/wokSearchGroup/search/user_query/fieldTagsGroup/WOSfieldTags.html)
 
 [WOS Field Names](http://ipscience-help.thomsonreuters.com/wosWebServicesExpanded/appendix1Group/wosfieldNameTable.html)
 
