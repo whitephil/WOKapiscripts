@@ -1,4 +1,4 @@
-# WOKapiscripts
+# WOKapiscripts: a repository of python scripts for interacting with the Web of Science Web Services Premium API. 
 
 ### Intro
 
