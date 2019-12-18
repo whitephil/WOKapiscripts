@@ -37,7 +37,7 @@ for uid in csv_f:
     client.set_options(headers={'Content-type':'text/xml', 'Cookie':'SID= '})
                                #^Tells api header is xml^                ^session ID goes here
 
-    rparams = {'firstRecord' : 1, 'count': 100}#retrieve parameters
+    rparams = orderedDict([('firstRecord' : 1, 'count': 100)])#retrieve parameters
 
     response = client.service.citedReferences('WOS',uid,'en', rparams)
              #tells api which database to query^         ^query language
