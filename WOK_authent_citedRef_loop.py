@@ -22,7 +22,7 @@ for uid in csv_f:
     client = Client(url, retxml=True)
     client.set_options(headers={'Content-type':'text/xml', 'Cookie': SID})
 
-    rparams = {'firstRecord' : 1, 'count': 100}
+    rparams = OrderedDict([('firstRecord' : 1, 'count': 100)])
 
     response = client.service.citedReferences('WOS',uid,'en', rparams)
 
